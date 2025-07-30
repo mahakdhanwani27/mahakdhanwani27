@@ -18,14 +18,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=mahakdhanwani27&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahakdhanwani27&theme=radical" />
-</p>
-
----
-
 ### 🔥 Latest Project
 **🔧 Automated Social Media Analytics Tool**  
 MERN-based platform to fetch, track, and analyze social media performance data  
