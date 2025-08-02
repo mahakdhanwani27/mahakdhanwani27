@@ -1,13 +1,12 @@
 <h1 align="center">Hola 👋, I'm Mahak Dhanwani</h1>
 <h3 align="center">I am a MERN stack developer, continuously improving my skills and building better projects every day.</h3>
-
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- 🌱 I’m currently building **Social Media Analytics Tool** with the MERN stack  
+- 🌱 I'm currently building **JournoSphere** - a MERN Stack app to share and explore travel experiences  
 - 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/mahakdhanwani27)
 - 💬 Ask me about **React.js, Node.js, Express, MongoDB, Java**
 - 📫 How to reach me: **mahakdhanwani27@gmail.com**
-- ⚡ Fun fact: I’m a fast learner and love hackathons!
+- ⚡ Fun fact: I'm a fast learner and love hackathons!
 
 ---
 
@@ -18,10 +17,17 @@
 
 ---
 
-### 🔥 Latest Project
-**🔧 Automated Social Media Analytics Tool**  
-MERN-based platform to fetch, track, and analyze social media performance data  
-🚀 _Coming Soon with Live Link_
+### 🔥 Latest Projects
+
+**🌱 Currently Building: JournoSphere**  
+A MERN Stack app to share and explore travel experiences with interactive maps and stories.  
+🛠️ **Tech Stack:** React, Node.js, MongoDB, Express  
+🚧 *In Development*
+
+**🔧 Completed: Spousalytics**  
+A comprehensive web-based alimony calculator built for the Indian legal market. Features responsive design, form validation, and complex financial calculations based on multiple factors.  
+🚀 **Live:** [spousalytics.vercel.app](https://spousalytics.vercel.app/)  
+🛠️ **Tech Stack:** HTML5, CSS3, JavaScript, Vercel, Git
 
 ---
 
@@ -34,4 +40,4 @@ MERN-based platform to fetch, track, and analyze social media performance data
 
 ---
 
-> 📌 _“Building tomorrow’s tools, one line of code at a time.”_
+> 📌 *"Building tomorrow's tools, one line of code at a time."*
